@@ -5,3 +5,5 @@ matplotlib
 jupyter
 hyp3_sdk
 asf_search
+opensarlab_lib
+ipympl
