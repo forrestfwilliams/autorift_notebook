@@ -1,9 +1,8 @@
 autorift
 gdal
-numpy
-matplotlib
-jupyter
-hyp3_sdk
-asf_search
-opensarlab_lib
 ipympl
+jupyter
+jupyterlab
+matplotlib
+numpy
+pip
