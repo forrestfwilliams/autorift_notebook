@@ -1,0 +1,11 @@
+name: autorift
+channels:
+  - conda-forge
+dependencies:
+  - autorift
+  - gdal
+  - ipympl
+  - jupyter
+  - matplotlib
+  - numpy
+  - pip
