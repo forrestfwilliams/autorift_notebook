@@ -1,8 +1,10 @@
-autorift
-gdal
-ipympl
-jupyter
-jupyterlab
-matplotlib
-numpy
+python>=3.8
 pip
+gdal>=3
+autorift=1.4.0
+opencv=4.5.3
+pandas
+jupyter
+matplotlib
+ipympl
+jupyterlab
